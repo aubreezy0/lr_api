@@ -1,11 +1,20 @@
-# Lunchbx - API
+# Magic Lunch Ball - Client
 
-Of note, a followup to Lunchbx, "Lunchbox Roulette" is in the works.
-Follow along at
+Magic Lunch Ball is a redux (and then some) of an original project for class, called "Lunchbx." I'm refactoring the site to add a Google Maps API. User will click on a magic eight ball, which will offer a local restaurant recommendation with related map.
+
+I am building on the original Lunchbx database, which allowed users to enter their own restaurants. V3 will capitalize on that by allowing users to log in and save their restaurant results.
+
+I am keeping (most) of the original README content from the original concept. It demonstrates the mothodologies used (including ERDs, etc.) that demostrate an understanding of the process of feature development.
+
+In the meantime you can follow along at:
 <ul>
 <li>https://github.com/aubreezy0/lr_client and</li>
 <li>https://github.com/aubreezy0/lr_api</li>
 </ul>
+
+Thank you!
+
+# README from V1 iteration, "Lunchbx" (Not Magic Lunch Ball)
 
 ## Repos:
 <ul>
