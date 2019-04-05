@@ -1,4 +1,4 @@
-# Magic Lunch Ball - Client
+# Magic Lunch Ball - API
 
 Magic Lunch Ball is a redux (and then some) of an original project for class, called "Lunchbx." I'm refactoring the site to add a Google Maps API. User will click on a magic eight ball, which will offer a local restaurant recommendation with related map.
 
