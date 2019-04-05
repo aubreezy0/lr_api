@@ -1,4 +1,4 @@
-<% project_name = 'lunchbx' %>
+<% project_name = 'lunchball' %>
 
 default: &default
   adapter: postgresql
